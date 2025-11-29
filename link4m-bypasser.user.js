@@ -9,7 +9,7 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
-// @require      https://cdn.jsdelivr.net/gh/Bunvian/link4m-bypasser@main/core.js
+// @require      https://cdn.jsdelivr.net/gh/bunviancypher/link4m@main/core.js
 // @run-at       document-idle
 // ==/UserScript==
 
