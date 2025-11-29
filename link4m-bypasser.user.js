@@ -1,7 +1,7 @@
 
 // ==UserScript==
 // @name         Link4M Bypasser
-// @namespace    https://github.com/Bunvian
+// @namespace    https://github.com/Bunmcpro
 // @version      2.0.0
 // @author       Bunvian
 // @match        https://link4m.com/*
